@@ -9,7 +9,7 @@
                   <div class="col-md-6">
                     <div class="title-box-2">
                       <h5 class="title-left">
-                        Send Message Us
+                        Send Message Me
                       </h5>
                     </div>
                     <div>
