@@ -52,7 +52,7 @@
                       Engineering from Southeast University.
                     </p>
                     <p class="lead">
-                     Now I am learning php Laravel. I've created some projects. I also have interset about
+                     Now I am learning php Laravel. I've created some projects. I also have interest about
                      computer programming.
                     </p>
                     <p class="lead">
